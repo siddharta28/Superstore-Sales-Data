@@ -1,4 +1,4 @@
-# Superstore-Sales-Data Case Study [Watch_here](https://colab.research.google.com/drive/11KWF5nJ1BlORKP1pQVjafOJ4wv26nejK?usp=drive_link)
+# Superstore-Sales-Data Case Study [Click Here To Watch](https://colab.research.google.com/drive/11KWF5nJ1BlORKP1pQVjafOJ4wv26nejK?usp=drive_link)
 ---
 Comprehensive analysis of 10,000+ transactional records from the Superstore dataset, uncovering trends in sales, profit, and customer behavior to deliver actionable business insights.
 
